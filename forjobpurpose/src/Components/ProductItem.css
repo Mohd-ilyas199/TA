@@ -1,0 +1,41 @@
+.Card1 {
+    margin: 10px;   
+    text-align: center;
+    box-shadow: 0 0 10px black;
+    height: 550px;
+    transition: 0.5s;
+    display: flexbox;
+    justify-content: center;
+  }
+  
+  .Card1:hover{
+    transform: scale(1.05);
+  }
+  
+  
+  .Row1{
+      background-color: rebeccapurple;
+      height: auto;
+      padding: 25px;
+  }
+  .Nav1{
+    padding: 5px;
+      background-color:lightgray;
+  }
+  .nav2{
+    padding: 5px;
+  }
+  
+  .cardimg{
+    height: 350px ;
+    /* width: 200px ; */
+  }
+  
+  .button1{
+    width: 100px;
+  }
+  .brand_name{
+    width: 400px;
+    height: 200px;
+  
+  }
